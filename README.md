@@ -22,7 +22,15 @@ This Social Networking application allows user to share their thoughts with the 
     To use this application run `npm start`
 
 ## Tests
-    No tests have been made for this application.
+
+<img width="1440" alt="Screen Shot 2022-02-26 at 10 44 23 PM" src="https://user-images.githubusercontent.com/91788324/155868611-34275490-e551-42d0-a3b6-6f581bd18bb1.png">
+    
+<img width="1440" alt="Screen Shot 2022-02-26 at 10 44 45 PM" src="https://user-images.githubusercontent.com/91788324/155868638-1ed2583f-944b-4487-9c08-9ac87834c258.png">
+
+<img width="1440" alt="Screen Shot 2022-02-26 at 10 45 09 PM" src="https://user-images.githubusercontent.com/91788324/155868652-cf26f3e8-0647-4492-8882-cd88e985b0ec.png">
+
+<img width="1440" alt="Screen Shot 2022-02-26 at 10 45 16 PM" src="https://user-images.githubusercontent.com/91788324/155868661-d384f00a-ceb7-4092-b757-e3c1e57b451e.png">
+
 
 ## Contributors
     Cameron Quicksall
