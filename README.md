@@ -2,7 +2,8 @@
 
 ### License
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue)
-    
+
+
 # Description
 This Social Networking application allows user to share their thoughts with the ability to add friends, and add reactions to their friends thoughts. This application was built using, MongoDB, Express, Node, and Mongoose.
 
@@ -20,6 +21,9 @@ This Social Networking application allows user to share their thoughts with the 
 
 ## Usage
     To use this application run `npm start`
+    
+## Video Demo
+https://www.youtube.com/watch?v=4apuu-uoVlI
 
 ## Tests
 
