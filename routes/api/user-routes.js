@@ -23,7 +23,7 @@ router.route("/:id")
     .delete(deleteUser);
 
 //  /api/users/<userId>/friends/<friendId>/
-router.route("/:id/friends/:friendsId")
+router.route("/:userId/friends/:friendId")
     .post(addToFriendList)
     .delete(removeFromFriendList);
 
